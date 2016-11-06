@@ -79,11 +79,12 @@ gen_curried_sub(
                 url => "http://perladvent.org/2013/2013-12-12.html",
                 summary => "Modules mentioned in Perl Advent Calendar 2013 (day 12)",
             },
-            {
-                name => "2013_12_13",
-                url => "http://perladvent.org/2013/2013-12-13.html",
-                summary => "Modules mentioned in Perl Advent Calendar 2013 (day 13)",
-            },
+            # no mention of module, only a tool called bisect.pl from the Porting/ dir in perl git repo
+            #{
+            #    name => "2013_12_13",
+            #    url => "http://perladvent.org/2013/2013-12-13.html",
+            #    summary => "Modules mentioned in Perl Advent Calendar 2013 (day 13)",
+            #},
             {
                 name => "2013_12_14",
                 url => "http://perladvent.org/2013/2013-12-04.html",
@@ -119,11 +120,12 @@ gen_curried_sub(
                 url => "http://perladvent.org/2013/2013-12-20.html",
                 summary => "Modules mentioned in Perl Advent Calendar 2013 (day 20)",
             },
-            {
-                name => "2013_12_21",
-                url => "http://perladvent.org/2013/2013-12-21.html",
-                summary => "Modules mentioned in Perl Advent Calendar 2013 (day 21)",
-            },
+            # about bash
+            #{
+            #    name => "2013_12_21",
+            #    url => "http://perladvent.org/2013/2013-12-21.html",
+            #    summary => "Modules mentioned in Perl Advent Calendar 2013 (day 21)",
+            #},
             {
                 name => "2013_12_22",
                 url => "http://perladvent.org/2013/2013-12-22.html",
